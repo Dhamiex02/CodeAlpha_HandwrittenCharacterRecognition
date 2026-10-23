@@ -23,8 +23,8 @@ A convolutional neural network that recognises handwritten digits, built with Ke
 Beyond the test set, I photographed my own digits with a phone and ran them through the model.
 
 <!-- Fill in after running Section 8 of the notebook -->
-- Accuracy on my own digits: **X / Y**
-- Notable successes and failures: _add 1 or 2 sentences_
+- Accuracy on my own digits: **10/10**
+- Notable successes and failures: **Got 100% success rate on my own digits**
 
 ![Prediction on my own handwriting](images/custom_prediction.png)
 
